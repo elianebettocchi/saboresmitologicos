@@ -1,0 +1,180 @@
+body{
+    background-image: url("./img/wall.jpg");
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: 13%;
+    background-blend-mode: multiply;
+    font-family: 'Courier New', Courier, monospace;
+	font-size: 20px;
+}
+.justify{
+    text-align: justify;
+}
+.center{
+    text-align: center;
+}
+.a-orange{
+    color: orange;
+}
+.a-green{
+    color: rgb(0, 168, 0);
+}
+.a-yellow{
+    color: goldenrod;
+}
+.a-red{
+    color: red;
+}
+.a-grey{
+    color: white;
+}
+.a-blue{
+    color: rgb(146, 217, 255);
+}
+.a-aqua{
+    color: aquamarine;
+}
+.a-black{
+    color: black;
+}
+a:hover{
+    color: rgb(113, 189, 0);
+    text-decoration: none;
+}
+.green{
+    background-color: darkgreen;
+}
+.grey{
+    background-color: #eee;
+}
+.button-curupira{
+    background-color: rgb(87, 66, 0);
+    color: rgb(255, 225, 0);
+    border-radius: 10px;
+    padding: 5px;
+    border-color: rgb(255, 225, 0);
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%
+}
+.button-saci{
+    background-color:  rgb(0, 166, 255);
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    border-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%
+}
+.button-uiara{
+    background-color:  rgb(0, 124, 118);
+    color: aquamarine;
+    border-radius: 10px;
+    padding: 5px;
+    border-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%
+}
+
+.button-boitata{
+    background-color: rgb(153, 0, 0);
+    color: orange;
+    border-radius: 10px;
+    padding: 5px;
+    border-color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%
+}
+.btn{
+    width: 30px;
+    margin: 2px;
+	padding: 2px;
+}
+.card{
+    color: black;
+    background-color: #eee;
+}
+.card-boitata {
+	background-color: rgba(204, 0, 0, 0.7);
+}
+
+.card-saci{
+	background-color: rgba(125, 198, 218, 0.7);
+}
+.card-curupira{
+	background-color: rgba(78, 57, 0, 0.7);
+}
+
+.card-uiara{
+	background-color: rgba(116, 199, 186, 0.7);
+}
+.card-grey{
+	background-color: rgba(0, 0, 0, 0.7);
+}
+hr{
+    color: #999;
+}
+.icon{
+    width: 40px;
+    height: auto;
+}
+.icon1{
+    width: 60px;
+    height: auto;
+}
+.icon2{
+    width: 50px;
+    height: auto;
+}
+.button-grey{
+    background-color: #999;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    border-color: green;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%
+}
+button:hover{
+    background-color: #ccc;
+    border-color: green;
+}
+.btn{
+    width: auto;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(0,0,0,0.7);
+    width: 100%;
+  }
+  .top {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: black;
+    width: 10%;
+  }
+  .bottom {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    background-color: rgb(0,0,0,0.6);
+  }
+  .darker {
+    width: 100%;
+    color: white;
+    background-color: rgb(0,0,0,0.7);
+  }
