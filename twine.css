@@ -112,6 +112,27 @@ button:hover{
     background-position: center center;
     background-attachment: scroll;
 }
+.curupira{
+    background-image: url("./img/curupira.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+}
+.saci{
+    background-image: url("./img/saci.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+}
+.uiara{
+    background-image: url("./img/uiara.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+}
 .card{
     color: black;
     background-color: #eee;
