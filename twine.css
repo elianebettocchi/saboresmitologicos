@@ -105,6 +105,13 @@ button:hover{
     margin: 2px;
 	padding: 2px;
 }
+.boitata{
+    background-image: url("./img/boitata.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+}
 .card{
     color: black;
     background-color: #eee;
