@@ -83,7 +83,7 @@ button:hover{
     width: 100%
 }
 .button-uiara{
-    background-color:  rgb(0, 124, 97);
+    background-color:  darkgreen;
     color: aquamarine;
     border-radius: 10px;
     padding: 5px;
@@ -156,7 +156,7 @@ button:hover{
 }
 
 .card-uiara{
-	background-color: rgba(116, 199, 186, 0.7);
+	background-color: rgb(127, 255, 212, 0.7);
 }
 .card-grey{
 	background-color: rgba(0, 0, 0, 0.7);
