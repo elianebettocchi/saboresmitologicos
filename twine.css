@@ -133,6 +133,13 @@ button:hover{
     background-position: center center;
     background-attachment: scroll;
 }
+.human{
+    background-image: url("./img/human.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+}
 .card{
     color: black;
     background-color: #eee;
