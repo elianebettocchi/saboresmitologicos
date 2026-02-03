@@ -16,20 +16,20 @@ body{
     color: orange;
 }
 a {
-    color: white;
+    color: rgb(0, 255, 0);
     text-decoration: none;
     font-weight: bold;
 }
 a:hover{
-    color: rgb(0, 255, 0);
+    color: white;
     text-decoration: none;
 }
 .button-grey{
-    background-color: #999;
+    background-color: black;
     color: white;
     border-radius: 10px;
     padding: 5px;
-    border-color: green;
+    border-color: #eee;
     font-family: 'Courier New', Courier, monospace;
     width: 100%
 }
