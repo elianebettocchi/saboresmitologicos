@@ -106,6 +106,13 @@ button:hover{
     color: black;
     background-color: #eee;
 }
+.card-blac{
+    background-color: black;
+    color: #eee;
+    border-radius: 10px;
+    padding: 5px;
+    border-color: #eee;
+}
 .card-boitata {
 	background-color: rgba(204, 0, 0, 0.7);
 }
